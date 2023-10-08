@@ -12,7 +12,7 @@ Convert text to speech using JavaScript with this simple tool.
 
 1. Clone this repository.
 2. Open `index.html` in a web browser.
-3. Enter text, choose language, and click "Listern"
+3. Enter text, choose language, and click "Listen"
 
 ## Customization
 
